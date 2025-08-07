@@ -76,7 +76,7 @@ Live site Url: [Age Calculator](https://age-calculator-frontend-kappa.vercel.app
 ### 1. Clone the Repositories
 
 ```bash
-git clone https://github.com/Saras171/CodeAlpha-Age_Calculator.git
+git clone https://github.com/Saras171/Age_Calculator.git
 ```
 ### 2. Setup Backend:
 
@@ -150,7 +150,7 @@ It should run at: [http://localhost:5173] (default Vite port).
 
 - LinkedIn: [@SaraswatiRawat](https://www.linkedin.com/in/saraswati-rawat-534a02184)
 
-- GitHub Repository: [Age Calculator Git Repository](https://github.com/Saras171/CodeAlpha-Age_Calculator.git)
+- GitHub Repository: [Age Calculator Git Repository](https://github.com/Saras171/Age_Calculator.git)
 ---
 ##  Contributing
 
