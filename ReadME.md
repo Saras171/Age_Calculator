@@ -158,10 +158,5 @@ Contributions are welcome! 🤝
 Open an issue or submit a pull request.
 
 ---
-
-##  Acknowledgments
-I would like to express my sincere gratitude to CodeAlpha for providing me with the internship opportunity under which I developed this project. Their support, guidance, and platform helped me enhance my skills and apply my knowledge in a practical and meaningful way.
-
----
 ##  License
 This project is licensed under the 📄 [MIT License](/License).
